@@ -8,7 +8,6 @@ Python Weather Analyzer
 -- Use lambda fun to analyse the weather by the given user_input
 
 ## Solution
-
 def weather_analysis(temperature, humidity, wind_speed):
     print("Welcome to the Weather Analysis Tool!")
 
