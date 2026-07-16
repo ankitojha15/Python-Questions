@@ -1,12 +1,10 @@
-</> Markdown
 
 # Define a function to reverse a string
 
-- uses = slicing
-- difficulty = easy
+# uses = slicing
+# difficulty = easy
 
 ## Solution
-
 
 def reverse_string(str1):
 
